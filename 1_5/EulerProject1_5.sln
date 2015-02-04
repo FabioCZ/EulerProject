@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EulerProject", "EulerProject.csproj", "{7B4AED4D-02EA-4A75-9C45-3374FDC8EC5D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EulerProject1_5", "EulerProject1_5.csproj", "{7B4AED4D-02EA-4A75-9C45-3374FDC8EC5D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,8 +13,5 @@ Global
 		{7B4AED4D-02EA-4A75-9C45-3374FDC8EC5D}.Debug|x86.Build.0 = Debug|x86
 		{7B4AED4D-02EA-4A75-9C45-3374FDC8EC5D}.Release|x86.ActiveCfg = Release|x86
 		{7B4AED4D-02EA-4A75-9C45-3374FDC8EC5D}.Release|x86.Build.0 = Release|x86
-	EndGlobalSection
-	GlobalSection(MonoDevelopProperties) = preSolution
-		StartupItem = EulerProject.csproj
 	EndGlobalSection
 EndGlobal
